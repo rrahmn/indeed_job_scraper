@@ -43,4 +43,4 @@ Streamlit app that displays data engineering roles scraped off indeed can be fou
 - Only updates with new and unique entries to maintain database integrity.
 - Facilitates efficient data retrieval for analysis and application use.
 
-  ![image](https://github.com/rrahmn/indeed_job_scraper/assets/125041778/2c2e27b2-7b12-4c4b-adab-0c6518741373)
+![image](https://github.com/rrahmn/indeed_job_scraper/assets/125041778/2c2e27b2-7b12-4c4b-adab-0c6518741373)
